@@ -1,11 +1,11 @@
-# Emote Racer 2 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fer.mmatt.net)
-## A fork of the original EmoteRacer
+# Emote Racer 2
+## A fork of the fork of the original EmoteRacer
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=3470e3b80f7c&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 ![Game Screenshot](https://i.ibb.co/VJDpQfj/emoteracer-screenshot.jpg)
 
 ## Description
-[Emote Racer 2](https://er.mmatt.net) is a free online multiplayer [Twitch Emote](https://www.twitch.tv/creatorcamp/en/learn-the-basics/emotes/) typing/guessing game, where you try to guess the name of a given emote. You can choose to play battle royale, 1 vs 1, or practice alone.
+[Emote Racer 2](https://er.kaden-the.dev) is a free online multiplayer [Twitch Emote](https://www.twitch.tv/creatorcamp/en/learn-the-basics/emotes/) typing/guessing game, where you try to guess the name of a given emote. You can choose to play battle royale, 1 vs 1, or practice alone.
 
 This was forked because the original Emote Racer was taken offline (and I assume not developed anymore). I am planning on adding more emotes and keeping it online :)
 
